@@ -1,0 +1,15 @@
+{
+  "name": "pdom",
+  "version": "1.0.0",
+  "main": "pdom.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  },
+  "bin": {
+      "pdom" : "./pdom.js"
+  },
+  "description": "A tool that let's you parse an html page from stdin using javascript and the dom.",
+  "repository": "https://github.com/Alkeryn/domdom",
+  "author": "alkeryn"
+}
